@@ -1,0 +1,16 @@
+.blog-card{
+background-image:url(https://images.unsplash.com/photo-1538991383142-36c4edeaffde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZnJlZXxlbnwwfHwwfHw%3D&w=1000&q=80) ;
+background-size: cover;
+border: 1px solid #888;
+border-radius: 20px;
+ text-align: center;
+width: 400px;
+height: 300px;
+padding: 20px;
+margin: 20px;
+Display: inline-block
+}
+.blog-card h1{
+color:blueviolet;}
+.blog-card a{color: rgb(206, 175, 175);}
+.blog-card p{color: aquamarine;}
